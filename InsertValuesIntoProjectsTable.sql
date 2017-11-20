@@ -1,0 +1,26 @@
+--Insert Values into Projects Table
+INSERT INTO Projects(project_name, 
+project_address, 
+pex_startdate, 
+ptrue_startdate, 
+customer_name, 
+customer_address,
+customer_email,
+customer_ssn,
+customer_fn,
+periodicity_of_visits,
+pex_duration,
+ptrue_duration)
+
+VALUES ('Projeto XPTO1', 
+'4557 Walton Street', 
+'2017-11-19', 
+'2017-11-20', 
+'Barbara T Stewart',
+'Salt Lake City',
+'ocozzi@fe.up.pt',
+'647-26-3767',
+'342159529',
+'weekly',
+'500',
+'1000');
