@@ -1,0 +1,13 @@
+Here are all the queries for the Final ESIN Project Part 1
+
+a.A customer contact list, with the name, address, phone number and email.
+b.A list of the name of the projects that took longer than expected, indicating by how much time the estimated duration was exceeded, ordered in alphabetical order of project name.
+c.A list of employees with a name including ‘Silva’ that have been working in the studio for longer than 1 year, with their name and salary.
+d.Information about all the projects, including their name and address, the name of the customer and his/her contact information.
+e.A list containing the name of the managers of all the technical areas of all the projects, including the indication of the project and the technical area supervised, ordered by the budget of the budget and, when the budget is the same, by the expected duration (both in descending order).
+f.List of the technical areas of projects that are managed by architects who are also the global supervisor of that technical area. Besides the names of the technical area and the project, include the name of the architect in the result as well.
+g.A list of pairs of contractors that were hired for common gardening projects and the names of those projects with an expected duration longer than 1 year.
+h.A list of the number of projects each customer has ordered. The list should also include customers who have not made any order.
+i.A list of the customer who have ordered at least one project with a higher than average expected duration.
+j.A list of the projects involving more than 3 technical areas.
+k.A list of pairs of contractors that were hired for common projects and the average difference between the expected and true duration of those projects.
