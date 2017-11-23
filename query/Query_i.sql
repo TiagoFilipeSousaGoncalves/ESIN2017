@@ -2,7 +2,7 @@
 /*i. A list of the customer who have ordered at least one project 
 with a higher than average expected duration.*/
 
-SELECT customer_name, pex_duration
+SELECT customer_name AS [Customer Name], pex_duration AS [Project Expected Duration]
 
 FROM Projects
 
